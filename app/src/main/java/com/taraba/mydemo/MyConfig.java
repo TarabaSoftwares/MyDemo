@@ -1,6 +1,6 @@
 package com.taraba.mydemo;
 
-        import android.app.Application;
+import android.app.Application;
 
 /**
  * Created by Mayuri on 8/5/16.
@@ -11,7 +11,7 @@ public class MyConfig extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        //hi
+        //hi from mayuri
         TypefaceUtil.overrideFont(getApplicationContext(), "SERIF", "System San Francisco Display Regular.ttf"); // font from assets: "assets/fonts/Roboto-Regular.ttf
     }
 }
