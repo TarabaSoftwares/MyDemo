@@ -11,7 +11,7 @@ public class MyConfig extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        //hi
+        //hi form mayuri kele
         TypefaceUtil.overrideFont(getApplicationContext(), "SERIF", "System San Francisco Display Regular.ttf"); // font from assets: "assets/fonts/Roboto-Regular.ttf
     }
 }
