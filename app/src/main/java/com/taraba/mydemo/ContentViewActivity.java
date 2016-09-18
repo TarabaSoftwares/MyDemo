@@ -7,6 +7,8 @@ import android.webkit.WebView;
 public class ContentViewActivity extends AppCompatActivity {
 
     //fdgsdfgdsfg ghfgjfgj ghjghujk
+
+    //by Mayuri
     WebView webView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
