@@ -10,6 +10,7 @@ public class ContentViewActivity extends AppCompatActivity {
     //fdgsdfgdsfg ghfgjfgj ghjghujk
 
     //by Mayuri
+    // hi how are you? 
     WebView webView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
